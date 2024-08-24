@@ -1,5 +1,6 @@
 # KangaCookAssessmentHanish
-**Project Title**: "Simple Notes App"
+**Project Title**:
+"Kangacook Notes"--(Simple Notes App)
 **Description:** Brief overview of what the app does (e.g., create, store, and delete notes with a title and description).
 Prerequisites:
 Mention required software (Python 3.x, Node.js).
